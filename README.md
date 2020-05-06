@@ -2,7 +2,7 @@
 
 Enter the correct number with minimal context.
 
-[Demo](https://ryanford-frontend.github.io/number-practice/)
+[Demo](https://ryanford-dev.github.io/number-practice/)
 
 #### Attribution
 
